@@ -1,0 +1,43 @@
+
+[
+    {
+        "pregunta": "¿Cómo puedo acceder a las estadísticas de las carreras de caballos en la aplicación?",
+        "respuesta": " Por el momento no se puede acceder, en una actualización posterior se habilitará la vista al público."
+    },
+    {
+        "pregunta": " ¿La aplicación proporciona información sobre las carreras programadas y los resultados de las mismas?",
+        "respuesta": "Si brinda la información necesaria para ver las carreras programadas y los resultados finales."
+    },
+    {
+        "pregunta": "¿La aplicación ofrece información detallada sobre los caballos y los jinetes en competencia?",
+        "respuesta": "Solamente ofrece los nombres de los caballos y de que cuadra provienen, omitimos el nombre de los jinetes."
+    },
+    {
+        "pregunta": "¿La aplicación proporciona información sobre las condiciones climáticas y del terreno en las carreras?",
+        "respuesta": "No ofrece dicha información."
+    },
+    {
+        "pregunta": "¿La aplicación cuenta con un sistema de notificaciones para mantenerme actualizado sobre las carreras?",
+        "respuesta": "Actualmente cuenta para notificar a los usuarios para los permisos, posteriormente agregaremos las notifiaciones de resultados y carreras proximas."
+    },
+    {
+        "pregunta": "¿La aplicación está disponible en varios idiomas?",
+        "respuesta": "Solamente está disponible en el idioma español."
+    },
+    {
+        "pregunta": "¿La aplicación tiene una opción para seguir a mis caballos y jinetes favoritos?",
+        "respuesta": "No tiene la opción, solamente para obtener los datos de quienes son los caballos mas preferidos."
+    },
+    {
+        "pregunta": "¿La aplicación tiene una sección de ayuda o soporte técnico?",
+        "respuesta": "Se puede obtener ayuda por medio de un correo electrónico, y a un formulario puesto en la página web."
+    },
+    {
+        "pregunta": "¿La aplicación es gratuita o tiene un costo?",
+        "respuesta": "La aplicación es totalmente gratuita, no necesitas ingresar informacion sensible de pagos."
+    },
+    {
+        "pregunta": "¿La aplicación está disponible para dispositivos móviles y/o computadoras de escritorio?",
+        "respuesta": "La aplicación está disponible solo para dispositivos moviles android y ios."
+    }
+]
